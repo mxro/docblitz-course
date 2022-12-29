@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@goldstack/nodemonx", "npm:0.4.5"],\
             ["@goldstack/utils-typescript-references", "npm:0.3.4"],\
-            ["@types/jest", "npm:29.0.1"],\
+            ["@types/jest", "npm:29.2.4"],\
             ["@types/node", "npm:18.11.18"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.42.1"],\
             ["@typescript-eslint/parser", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.42.1"],\
@@ -2024,10 +2024,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/jest", [\
-        ["npm:29.0.1", {\
-          "packageLocation": "./.yarn/cache/@types-jest-npm-29.0.1-c663a9f1d1-efd30357c2.zip/node_modules/@types/jest/",\
+        ["npm:29.2.4", {\
+          "packageLocation": "./.yarn/cache/@types-jest-npm-29.2.4-e07e4d9db4-9deb4756fe.zip/node_modules/@types/jest/",\
           "packageDependencies": [\
-            ["@types/jest", "npm:29.0.1"],\
+            ["@types/jest", "npm:29.2.4"],\
             ["expect", "npm:29.0.3"],\
             ["pretty-format", "npm:29.0.3"]\
           ],\
@@ -3984,6 +3984,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["docblitz-fullstack-course", "workspace:packages/remotion"],\
             ["@remotion/cli", "virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19"],\
             ["@remotion/eslint-config", "virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19"],\
+            ["@types/node", "npm:18.11.18"],\
             ["@types/react", "npm:18.0.26"],\
             ["@types/web", "npm:0.0.86"],\
             ["eslint", "npm:8.30.0"],\
@@ -8471,7 +8472,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["root-workspace-0b6124", "workspace:."],\
             ["@goldstack/nodemonx", "npm:0.4.5"],\
             ["@goldstack/utils-typescript-references", "npm:0.3.4"],\
-            ["@types/jest", "npm:29.0.1"],\
+            ["@types/jest", "npm:29.2.4"],\
             ["@types/node", "npm:18.11.18"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.42.1"],\
             ["@typescript-eslint/parser", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.42.1"],\

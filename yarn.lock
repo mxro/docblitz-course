@@ -1396,13 +1396,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:^29.0.1":
-  version: 29.0.1
-  resolution: "@types/jest@npm:29.0.1"
+"@types/jest@npm:^29.2.4":
+  version: 29.2.4
+  resolution: "@types/jest@npm:29.2.4"
   dependencies:
     expect: ^29.0.0
     pretty-format: ^29.0.0
-  checksum: efd30357c290b5d385382302fae927885f2a9bde0aa45d4c7f970fa6e6d750df83edef73f16d1e9a005e08a5bcd7c6ff56a43f5ac2534a517df9ad1e44dd30c4
+  checksum: 9deb4756fe1b438d41ff1aae7d6c216c9e49e5fe60f539f8edb6698ffeb530ff7b25d37e223439b03602ca3a7397c9c2e53e1a39c7bd616353472fce0cc04107
   languageName: node
   linkType: hard
 
@@ -2908,6 +2908,7 @@ __metadata:
   dependencies:
     "@remotion/cli": 3.3.19
     "@remotion/eslint-config": ^3.0.0
+    "@types/node": ^18.11.18
     "@types/react": ^18.0.26
     "@types/web": ^0.0.86
     eslint: ^8.30.0
@@ -6859,7 +6860,7 @@ __metadata:
   dependencies:
     "@goldstack/nodemonx": 0.4.5
     "@goldstack/utils-typescript-references": 0.3.4
-    "@types/jest": ^29.0.1
+    "@types/jest": ^29.2.4
     "@types/node": ^18.11.18
     "@typescript-eslint/eslint-plugin": ^5.42.1
     "@typescript-eslint/parser": ^5.42.1

@@ -1,5 +1,7 @@
 {
   "private": true,
+  "license": "",
+  "author": "",
   "sideEffects": false,
   "workspaces": [
     "packages/*"
@@ -21,10 +23,22 @@
     "test-ci": "yarn workspaces foreach -v run test-ci",
     "test-watch": "nodemonx --watch . --exec 'yarn test-ci'"
   },
+  "resolutions": {
+    "aws-sdk": "^2.1222.0",
+    "glob-parent": "5.1.2",
+    "json-schema": "0.4.0",
+    "loader-utils": "2.0.4",
+    "minimatch": "^5.1.0",
+    "moment": "2.29.4",
+    "prismjs": "1.27.0",
+    "scss-tokenizer": "0.4.3",
+    "terser": "4.8.1",
+    "trim": "0.0.3"
+  },
   "devDependencies": {
     "@goldstack/nodemonx": "0.4.5",
     "@goldstack/utils-typescript-references": "0.3.4",
-    "@types/jest": "^29.0.1",
+    "@types/jest": "^29.2.4",
     "@types/node": "^18.11.18",
     "@typescript-eslint/eslint-plugin": "^5.42.1",
     "@typescript-eslint/parser": "^5.42.1",
@@ -39,20 +53,6 @@
     "prettier": "^2.7.1",
     "react": "^18.2.0",
     "typescript": "^4.8.4"
-  },
-  "author": "",
-  "license": "",
-  "resolutions": {
-    "aws-sdk": "^2.1222.0",
-    "glob-parent": "5.1.2",
-    "json-schema": "0.4.0",
-    "loader-utils": "2.0.4",
-    "minimatch": "^5.1.0",
-    "moment": "2.29.4",
-    "prismjs": "1.27.0",
-    "scss-tokenizer": "0.4.3",
-    "terser": "4.8.1",
-    "trim": "0.0.3"
   },
   "packageManager": "yarn@3.2.4"
 }
