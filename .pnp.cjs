@@ -1688,7 +1688,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@remotion/cli", "virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19"],\
             ["@remotion/bundler", "virtual:6ed3f243738da4c702b1b5ace8521106a479c54eda0f9e49abe9987024ef97a406c024fead20a8c36219b441d432486b26e077d9e3bd523f8e618cf1e26b673c#npm:3.3.19"],\
-            ["@remotion/media-utils", "virtual:6ed3f243738da4c702b1b5ace8521106a479c54eda0f9e49abe9987024ef97a406c024fead20a8c36219b441d432486b26e077d9e3bd523f8e618cf1e26b673c#npm:3.3.19"],\
+            ["@remotion/media-utils", "virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19"],\
             ["@remotion/player", "virtual:6ed3f243738da4c702b1b5ace8521106a479c54eda0f9e49abe9987024ef97a406c024fead20a8c36219b441d432486b26e077d9e3bd523f8e618cf1e26b673c#npm:3.3.19"],\
             ["@remotion/renderer", "virtual:6ed3f243738da4c702b1b5ace8521106a479c54eda0f9e49abe9987024ef97a406c024fead20a8c36219b441d432486b26e077d9e3bd523f8e618cf1e26b673c#npm:3.3.19"],\
             ["@types/react", "npm:18.0.26"],\
@@ -1759,10 +1759,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:6ed3f243738da4c702b1b5ace8521106a479c54eda0f9e49abe9987024ef97a406c024fead20a8c36219b441d432486b26e077d9e3bd523f8e618cf1e26b673c#npm:3.3.19", {\
-          "packageLocation": "./.yarn/__virtual__/@remotion-media-utils-virtual-ed2e15c10a/0/cache/@remotion-media-utils-npm-3.3.19-f49d6250e5-e36d37bfdd.zip/node_modules/@remotion/media-utils/",\
+        ["virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19", {\
+          "packageLocation": "./.yarn/__virtual__/@remotion-media-utils-virtual-ff6316aace/0/cache/@remotion-media-utils-npm-3.3.19-f49d6250e5-e36d37bfdd.zip/node_modules/@remotion/media-utils/",\
           "packageDependencies": [\
-            ["@remotion/media-utils", "virtual:6ed3f243738da4c702b1b5ace8521106a479c54eda0f9e49abe9987024ef97a406c024fead20a8c36219b441d432486b26e077d9e3bd523f8e618cf1e26b673c#npm:3.3.19"],\
+            ["@remotion/media-utils", "virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19"],\
             ["@types/react", "npm:18.0.26"],\
             ["@types/react-dom", null],\
             ["react", "npm:18.2.0"],\
@@ -3984,6 +3984,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["docblitz-fullstack-course", "workspace:packages/remotion"],\
             ["@remotion/cli", "virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19"],\
             ["@remotion/eslint-config", "virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19"],\
+            ["@remotion/media-utils", "virtual:f22f3a9a3ba7834dfd7845a80c467ca761e208a6d6e3420c398207f9093fceb39bf2e47d9ed49b0224dac5180b1c0df9bf4fa3ee22ea6b1cac73756274cffc1e#npm:3.3.19"],\
             ["@types/node", "npm:18.11.18"],\
             ["@types/react", "npm:18.0.26"],\
             ["@types/web", "npm:0.0.86"],\

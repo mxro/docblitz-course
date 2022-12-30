@@ -1191,7 +1191,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@remotion/media-utils@npm:3.3.19":
+"@remotion/media-utils@npm:3.3.19, @remotion/media-utils@npm:^3.3.19":
   version: 3.3.19
   resolution: "@remotion/media-utils@npm:3.3.19"
   dependencies:
@@ -2908,6 +2908,7 @@ __metadata:
   dependencies:
     "@remotion/cli": 3.3.19
     "@remotion/eslint-config": ^3.0.0
+    "@remotion/media-utils": ^3.3.19
     "@types/node": ^18.11.18
     "@types/react": ^18.0.26
     "@types/web": ^0.0.86

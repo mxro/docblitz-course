@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@remotion/cli": "3.3.19",
+    "@remotion/media-utils": "^3.3.19",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "remotion": "3.3.19"
